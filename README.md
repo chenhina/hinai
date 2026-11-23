@@ -1,6 +1,19 @@
 # hinai
 
-我的 AI 档案库，收录日常工作中可复用的 AI skills。
+我的 AI 档案库，收录日常工作中可复用的 AI skills、模板和经验。
+
+## 目录
+
+| 目录 | 用途 |
+| --- | --- |
+| [skills/](#skills) | 可直接调用的 AI 工作流程。 |
+| [templates/](templates/README.md) | 可复制填写的交付模板。 |
+| [examples/](examples/README.md) | 展示如何调用 AI，以及预期输出长什么样。 |
+| [evals/](evals/README.md) | 可重复运行或检查的 AI 验收用例。 |
+| [playbooks/](playbooks/README.md) | 串联多个步骤或 skills 的工作手册。 |
+| [scripts/](scripts/README.md) | 可独立运行的辅助脚本。 |
+| [preferences/](preferences/README.md) | 个人写作、沟通和工作偏好。 |
+| [notes/](notes/README.md) | 实践记录、踩坑经验和改进想法。 |
 
 ## Skills
 
