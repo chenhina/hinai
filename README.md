@@ -29,6 +29,13 @@
 | [design-test-strategy](skills/design-test-strategy/SKILL.md) | 将验收点映射到测试层、运行环境和 CI。 |
 | [analyze-go-profile](skills/analyze-go-profile/SKILL.md) | 结合 Go pprof 与源码诊断性能和并发问题。 |
 | [quick-retro](skills/quick-retro/SKILL.md) | 简短复盘一次事件，确定下次可验证的改进动作。 |
+| [learn-from-review](skills/learn-from-review/SKILL.md) | 从已核实的 PR 评论提炼可复用的检视方法。 |
+| [refine-skill-from-runs](skills/refine-skill-from-runs/SKILL.md) | 用实际使用反馈改进 skill 并验证行为。 |
+| [check-requirement-consistency](skills/check-requirement-consistency/SKILL.md) | 对照需求、方案、代码和测试，定位规则的差异或遗漏。 |
+| [plan-user-facing-change](skills/plan-user-facing-change/SKILL.md) | 从用户视角写清目标行为、流程和验收场景。 |
+| [edit-technical-chinese](skills/edit-technical-chinese/SKILL.md) | 润色中文技术文档，保留事实和约束。 |
+| [split-large-pr](skills/split-large-pr/SKILL.md) | 将大 PR 拆成可评审和验证的改动。 |
+| [organize-technical-docs](skills/organize-technical-docs/SKILL.md) | 为总览、操作手册和参考资料建立清晰的阅读路径。 |
 
 把对应的 skill 目录复制到 Codex 的个人 skills 目录（通常为 `~/.codex/skills/`），再在待分析的代码仓库中调用。
 
