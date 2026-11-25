@@ -28,6 +28,7 @@
 | [simplify-code](skills/simplify-code/SKILL.md) | 在保留外部行为的前提下简化代码。 |
 | [review-tech-spec](skills/review-tech-spec/SKILL.md) | 评审已有技术方案，核对设计风险和验收条件。 |
 | [design-test-strategy](skills/design-test-strategy/SKILL.md) | 将验收点映射到测试层、运行环境和 CI。 |
+| [design-go-tests](skills/design-go-tests/SKILL.md) | 设计 Go 测试用例，选择 HTTP API、外部服务和函数依赖的 mock 边界。 |
 | [analyze-go-profile](skills/analyze-go-profile/SKILL.md) | 结合 Go pprof 与源码诊断性能和并发问题。 |
 | [quick-retro](skills/quick-retro/SKILL.md) | 简短复盘一次事件，确定下次可验证的改进动作。 |
 | [learn-from-review](skills/learn-from-review/SKILL.md) | 从已核实的 PR 评论提炼可复用的检视方法。 |
