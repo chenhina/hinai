@@ -7,6 +7,7 @@
 | 目录 | 用途 |
 | --- | --- |
 | [skills/](#skills) | 可直接调用的 AI 工作流程。 |
+| [policies/](policies/README.md) | 可跨项目采用的工程规则、评审判据和检查入口。 |
 | [templates/](templates/README.md) | 可复制填写的交付模板。 |
 | [examples/](examples/README.md) | 展示如何调用 AI，以及预期输出长什么样。 |
 | [evals/](evals/README.md) | 可重复运行或检查的 AI 验收用例。 |
